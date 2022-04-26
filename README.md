@@ -13,7 +13,7 @@
  - OpenGameArt.org
  
 ## Future Development
- - Maybe after the course is over
+ - Maybe after the course is over.
  
 ## Created by
 Connor Brinson
